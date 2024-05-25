@@ -1,0 +1,45 @@
+incorrect_code,error_type,error_description,recommendation
+"my_dict = {'key1': 'value1', 'key2': value2}",KeyError,name 'value2' is not defined,Проверьте правильность имен ключей словаря.
+"print 'Hello, World!'",SyntaxError,"Missing parentheses in call to 'print'. Did you mean print('Hello, World!')?",Используйте круглые скобки для функций print в Python 3.
+y = int('text'),ValueError,invalid literal for int() with base 10: 'text',Проверьте корректность преобразования типов.
+raise ValueError 'Invalid value',TypeError,missing 1 required positional argument,Проверьте правильность аргументов в вызове функции.
+"assert 1 == 1, 'Test failed'",AssertionError,AssertionError,"Убедитесь, что условия в assert корректны."
+"list = [1, 2, 3
+print(list)",SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите элементы списка запятой.
+"def func:
+    pass",SyntaxError,invalid syntax,Проверьте правильность синтаксиса функции.
+"try:
+    x = 1/0
+except ZeroDivisionError
+    print('Error')",SyntaxError,expected ':',Не забывайте ставить двоеточие после 'except' в конструкциях.
+"a, b = 1, 2, 3",SyntaxError,too many values to unpack (expected 2),Проверьте количество переменных для распаковки.
+"while True
+    break",SyntaxError,expected ':',Не забывайте ставить двоеточие после 'while'.
+"a = [1, 2, 3
+b = [4, 5, 6]",SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите элементы списка запятой.
+"class MyClass
+    def __init__(self):
+        self.value = 0",SyntaxError,expected ':',Не забывайте ставить двоеточие после определения класса.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+if True print('True'),SyntaxError,invalid syntax. Did you forget a colon?,Не забывайте ставить двоеточие после 'if'.
+return x + y,SyntaxError,invalid syntax. 'return' outside function,Оператор 'return' должен быть внутри функции.
+lambda x: x + 1 if x > 0 else,SyntaxError,unexpected EOF while parsing,Проверьте завершение условного оператора.
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+"try:
+    pass
+except Exception, e:
+    print(e)",SyntaxError,invalid syntax. Did you mean 'as e'?,Используйте 'as e' для обработки исключений.
+"for i in range(5)
+print(i)",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'for', 'while'."
+"if a in [1, 2, 3
+    print(a)",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+x == 10,SyntaxError,invalid syntax. Perhaps you meant '=='?,Используйте оператор '==' для сравнения.
+"with open('file.txt', 'r') as f
+    content = f.read()",SyntaxError,expected ':',Не забывайте ставить двоеточие после 'with' в конструкциях.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+"import numpy as np
+np.array([1, 2, 3,])",SyntaxError,trailing comma not allowed,Удалите лишнюю запятую в конце массива.
