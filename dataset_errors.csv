@@ -1,0 +1,176 @@
+incorrect_code,error_type,error_description,recommendation
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
+pint(1+2),NameError,name 'pint' is not defined,Проверьте правильность написания имен функций и переменных.
+"response = requests.get(url, params=params",SyntaxError,'(' was never closed,"Убедитесь, что все скобки и кавычки закрыты."
+"if a > 4
+    print(""Ответ верный"")
+else:
+    print(""Ответ неверный"")",SyntaxError,expected ':',"Не забывайте ставить двоеточие после условий в конструкциях 'if', 'elif', и 'else'."
+print(string n),SyntaxError,invalid syntax. Perhaps you forgot a comma?,Разделите аргументы функции запятой.
